@@ -34,3 +34,4 @@ cart.forEach(value => {
 
 
 console.log(`O valor final da compra foi de: R$ ${valueCart.toFixed(2)}, porém você teve desconto, irá pagar apenas R$ ${finalValueWhitDiscount.toFixed(2)}, você economizou ${discount.toFixed(2)}`)
+
